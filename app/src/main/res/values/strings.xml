@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">HEALTH</string>
+    <string name="sugar">Sugary drinks are among the most fattening items you can put into your body.This is because your brain doesn’t measure calories
+        from liquid sugar the same way it does for solid food (1Trusted Source).Therefore, when you drink soda, you end up eating more total calories
+        (2Trusted Source, 3Trusted Source).\n\n
+        Sugary drinks are strongly associated with obesity, type 2 diabetes, heart disease, and many other health problems
+        (4Trusted Source, 5Trusted Source, 6Trusted Source, 7Trusted Source). Keep in mind that certain fruit juices may be almost as bad as soda in this
+        regard, as they sometimes contain just as much sugar. Their small amounts of antioxidants do not negate the sugar’s harmful effects (8Trusted Source).
+    </string>
+    <string name="nuts">Despite being high in fat, nuts are incredibly nutritious and healthy. They’re loaded with magnesium, vitamin E, fiber, and various
+        other nutrients (9Trusted Source). Studies demonstrate that nuts can help you lose weight and may help fight type 2 diabetes and heart disease
+        (10Trusted Source, 11Trusted Source, 12Trusted Source).\n\n Additionally, your body doesn’t absorb 10–15% of the calories in nuts. Some evidence also
+        suggests that this food can boost metabolism (13Trusted Source). In one study, almonds were shown to increase weight loss by 62%, compared with complex
+        carbs (14Trusted Source).</string>
+    <string name="junkFood">The dark side of junk foods is not an unknown fact. Several research studies have shown that fast foods and processed foods have
+        increased childhood obesity, heart disease and diabetes and other chronic diseases. Recently, the Delhi Government demanded a crackdown on junk food
+        that is sold in schools and within 50 meters of them. Not only do they add inches to your waistline, but scientists and researchers have also
+        indicated through various studies that junk food can actually cause serious damage to your brain. The worrying bit is that it’s not just years of
+        poor eating, but regular consumption of junk food even for few days can lead to a mental meltdown.\n\n
+        In his book, Encyclopedia of Junk Food and Fast Food, Andre F. Smith defines junk food as, "those commercial products, including candy,
+        bakery goods, ice cream, salty snacks, and soft drinks, which have little or no nutritional value but do have plenty of calories, salt, and fats.
+        While not all fast foods are junk foods, most are. Fast foods are ready-to-eat foods served promptly after ordering."
+       The more junk food you consume, the less likely you are to consume the essential nutrients that your body relies on. You know that junk food can
+        hurt your health, but you may have not known about the effects of junk food on how your brain functions</string>
+    <string name="coffee">However, Meredith told MNT that the effects of caffeine can vary in each individual. This may explain the mixed outcomes of
+        research on the impact of caffeine in the body. For example, he advised that individuals with anxiety disorders are more susceptible to the
+        anxiety-increasing effects of caffeine. “Caffeine can also metabolize at different rates among individuals for various reasons. For example,
+        cigarette smokers metabolize caffeine twice as fast as nonsmokers,” he added.\n\n
+        “However, caffeine metabolism is slower among infants, pregnant women, and individuals with liver disease. In addition, some medications slow
+        caffeine metabolism, which may increase the risk of caffeine intoxication. \n\n
+        But the effects of caffeine also vary simply because we’re all different.” Rob M. Van Dam, adjunct associate professor of the Department of
+        Nutrition at the Harvard School of Public Health, told MNT that the effects of caffeine depend on individual genetic characteristics and other
+        lifestyle factors.</string>
+    <string name="fatFish">Fish is a great source of high-quality protein and healthy fat.This is particularly true of fatty fish, such as salmon, which
+        is loaded with omega-3 fatty acids and various other nutrients (22Trusted Source).\n\n
+        Studies show that people who eat the most fish have a lower risk of several conditions, including heart disease, dementia, and depression
+        (23Trusted Source, 24Trusted Source, 25).</string>
+
+    <string name="sleep">Most adults need 7 to 8 hours of good quality sleep on a regular schedule each night. Make changes to your routine if you can not find enough time to sleep.
+
+Getting enough sleep isn’t only about total hours of sleep. It’s also important to get good quality sleep on a regular schedule so you feel rested when you wake up.\n\n
+
+If you often have trouble sleeping – or if you often still feel tired after sleeping – talk with your doctor.</string>
+
+    <string name="water">Drinking enough water can have numerous benefits.
+
+Surprisingly, it can boost the number of calories you burn.\n\n
+
+Two studies note that it can increase metabolism by 24–30% over 1–1.5 hours. This can amount to 96 additional calories burned if you drink 8.4 cups (2 liters) of water per day (35Trusted Source, 36Trusted Source).\n\n
+
+The optimal time to drink it is before meals. One study showed that downing 2.1 cups (500 ml) of water 30 minutes before each meal increased weight loss by 44% (37Trusted Source).</string>
+    <string name="vitamin">Sunlight is a great source of vitamin D.
+
+Yet, most people don’t get enough sun exposure.\n\n
+
+In fact, about 41.6% of the U.S. population is deficient in this critical vitamin (42Trusted Source).
+
+If you’re unable to get adequate sun exposure, vitamin D supplements are a good alternative.\n\n
+
+Their benefits include improved bone health, increased strength, reduced symptoms of depression, and a lower risk of cancer. Vitamin D may also help you live longer </string>
+    <string name="vegetable">Vegetables and fruits are loaded with prebiotic fiber, vitamins, minerals, and many antioxidants, some of which have potent biological effects.\n\n
+        Studies show that people who eat the most vegetables and fruits live longer and have a lower risk of heart disease, type 2 diabetes, obesity, and other illnesses (50, 51).</string>
+    <string name="smoke">Tobacco is a plant grown for its leaves, which are dried and fermented before being put in tobacco products.\n\nTobacco contains nicotine,
+        an ingredient that can lead to addiction, which is why so many people who use tobacco find it difficult to quit.\n\nThere are also many other potentially harmful
+        chemicals found in tobacco or created by burning it.</string>
+    <string name="oil">Extra virgin olive oil is one of the healthiest vegetable oils.
+
+It’s loaded with heart-healthy monounsaturated fats and powerful antioxidants that can fight inflammation (62Trusted Source, 63Trusted Source, 64Trusted Source).\n\n
+
+Extra virgin olive oil benefits heart health, as people who consume it have a much lower risk of dying from heart attacks and strokes (65Trusted Source, 66).</string>
+</resources>

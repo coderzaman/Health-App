@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/apphomeimage"
+            android:scaleType="fitXY"
+            />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="30dp"
+                android:orientation="vertical"
+                >
+
+                <Button
+                    android:id="@+id/sugarId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/borderbtn"
+                    android:text="Don’t eat sugar calories"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:paddingVertical="20dp"
+                    android:textColor="#fff"
+                    android:layout_marginBottom="15dp"
+                    />
+                <Button
+                    android:id="@+id/nutId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/borderbtn"
+                    android:text="Eat nuts"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:paddingVertical="20dp"
+                    android:textColor="#fff"
+                    android:layout_marginBottom="15dp"
+                    />
+                  <Button
+                    android:id="@+id/junkId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/borderbtn"
+                    android:text="Avoid junk food"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:paddingVertical="20dp"
+                    android:textColor="#fff"
+                    android:layout_marginBottom="15dp"
+                    />
+                  <Button
+                     android:id="@+id/coffeId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/borderbtn"
+                    android:text="Don’t fear coffee"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:paddingVertical="20dp"
+                    android:textColor="#fff"
+                    android:layout_marginBottom="15dp"
+                    />
+                    <Button
+                        android:id="@+id/fattyFishId"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/borderbtn"
+                        android:text="Eat fatty fish"
+                        android:fontFamily="sans-serif-black"
+                        android:textSize="18dp"
+                        android:textStyle="bold"
+                        android:paddingVertical="20dp"
+                        android:textColor="#fff"
+                        android:layout_marginBottom="15dp"
+                        />
+                    <Button
+                        android:id="@+id/sleepId"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/borderbtn"
+                        android:text="Get enough sleep"
+                        android:fontFamily="sans-serif-black"
+                        android:textSize="18dp"
+                        android:textStyle="bold"
+                        android:paddingVertical="20dp"
+                        android:textColor="#fff"
+                        android:layout_marginBottom="15dp"
+                        />
+                    <Button
+                        android:id="@+id/waterId"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/borderbtn"
+                        android:text="Drink some water"
+                        android:fontFamily="sans-serif-black"
+                        android:textSize="18dp"
+                        android:textStyle="bold"
+                        android:paddingVertical="20dp"
+                        android:textColor="#fff"
+                        android:layout_marginBottom="15dp"
+                        />
+
+                 <Button
+                    android:id="@+id/vitaminId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/borderbtn"
+                    android:text="Take vitamin D3"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:paddingVertical="20dp"
+                    android:textColor="#fff"
+                    android:layout_marginBottom="15dp"
+                    />
+                <Button
+                    android:id="@+id/vegetabeleId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/borderbtn"
+                    android:text="Eat vegetables and fruits"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:paddingVertical="20dp"
+                    android:textColor="#fff"
+                    android:layout_marginBottom="15dp"
+                    />
+                <Button
+                    android:id="@+id/smokeId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/borderbtn"
+                    android:text="Don’t smoke or do drugs"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:paddingVertical="20dp"
+                    android:textColor="#fff"
+                    android:layout_marginBottom="15dp"
+                    />
+                <Button
+                    android:id="@+id/oilId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/borderbtn"
+                    android:text="Use virgin olive oil"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:paddingVertical="20dp"
+                    android:textColor="#fff"
+                    android:layout_marginBottom="55dp"
+
+                    />
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
